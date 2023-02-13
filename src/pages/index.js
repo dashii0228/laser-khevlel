@@ -30,8 +30,8 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'ЛАЗЕР ХЭВЛЭЛИЙН ҮЙЛЧИЛГЭЭ'}
-        subtitle={'Бүх төрлийн материал дээрх хэвлэл'}
+        title={'hhhhhhhh'}
+        subtitle={'gggggggggggggggggggggg'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />

@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/banner1.png'}
         title={'ЛАЗЕР ХЭВЛЭЛИЙН ҮЙЛЧИЛГЭЭ'}
-        subtitle={'Discover Autumn Winter 2021'}
+        subtitle={'Бүх төрлийн материал дээрх хэвлэл'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />

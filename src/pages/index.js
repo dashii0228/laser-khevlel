@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/banner1.png'}
         title={'hhhhhhhh'}
-        subtitle={'gggggggggggggggggggggg'}
+        subtitle={'ggggggggggggggggg'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
